@@ -1,0 +1,6 @@
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\bin\Debug\TP_RecoFormesMatrice.exe.config
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\bin\Debug\TP_RecoFormesMatrice.exe
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\bin\Debug\TP_RecoFormesMatrice.pdb
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\obj\Debug\TP_RecoFormesMatrice.csproj.CoreCompileInputs.cache
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\obj\Debug\TP_RecoFormesMatrice.exe
+C:\Users\Lucie Vautier\Documents\00_ENSC\2A\Cours\07_IA\TP_RecoFormes\TP_RecoFormesMatrice\obj\Debug\TP_RecoFormesMatrice.pdb
